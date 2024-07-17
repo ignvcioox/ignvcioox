@@ -13,11 +13,11 @@
 
 <br>
 
-- Un apasionado Desarrollador Front-End Autodidacta
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Un apasionado Desarrollador Front-End Autodidacta.
+- Siempre aprendiendo nuevas tecnologías y asumiendo desafíos.
+- Motivado por la innovación y el aprendizaje continuo en el campo del desarrollo de software.
+- Habilidades en trabajo en equipo y resolución de problemas.
+- Experiencia en el desarrollo móvil con React.
 
 <br><br>
 
