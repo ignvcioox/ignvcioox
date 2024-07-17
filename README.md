@@ -21,7 +21,7 @@
 ## <picture> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"></picture> **Stack Tecnológico**
 
 <!-- Front-End Tecnologías -->
-- **Desarrollo Front-End**
+## **Desarrollo Front-End**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,html,js,vite,css,tailwind,bootstrap&perline=12" />
@@ -29,7 +29,7 @@
 </p>
 
 <!-- BackEnd Tecnologías -->
-<span style="font-size:larger;">Desarrollo Back-End</span>
+## **Desarrollo Back-End**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,express&perline=12" />
@@ -37,7 +37,7 @@
 </p>
 
 <!-- Software y Herramientas -->
-- **Software y Herramientas** 
+## **Software y Herramientas** 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=12" />
