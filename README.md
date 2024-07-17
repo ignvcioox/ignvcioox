@@ -45,7 +45,7 @@
 ## **Redes Sociales**
 <div align="center">
 	<a href="https://www.instagram.com/nach0_bmx_/" target="blank">
-		<img align="center" src="https://img.shields.io/badge/instagram: nach0_bmx_" alt="instagram" />
+		<img align="center" src="https://img.shields.io/badge/instagram: nach0_bmx_-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/" target="blank">
 		<img align="center" src="https://img.shields.io/badge/linkedin:  Benjamín López-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
