@@ -10,7 +10,7 @@
 </p>
 
 <!-- Sobre mí -->
-## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
+## **Acerca de mí**
 
 - Experiencia en el desarrollo móvil con React Native
 - Un apasionado Desarrollador Front-End autodidacta
