@@ -15,7 +15,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Un apasionado Desarrollador Front-End Autodidacta
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
