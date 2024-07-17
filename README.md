@@ -44,8 +44,8 @@
 
 ## **Redes Sociales**
 <div align="center">
-	<a href="https://www.instagram.com/nach0_bmx_/">
-		<img src="https://skillicons.dev/icons?i=instagram&perline=12" />
+	<a href="https://www.instagram.com/nach0_bmx_/" target="blank">
+		<img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
 	</a>
 	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/" target="blank">
 		<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
@@ -53,6 +53,7 @@
 	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/">
 		<img src="https://skillicons.dev/icons?i=gmail&perline=12" />
 	</a>
+	
 </div>
 	
 
