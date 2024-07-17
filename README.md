@@ -29,7 +29,7 @@
 </p>
 
 <!-- BackEnd Tecnologías -->
-- **Desarrollo Back-End**
+## <span style="font-size:larger;">Desarrollo Back-End</span>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,express&perline=12" />
