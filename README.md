@@ -48,9 +48,6 @@
 		<img src="https://skillicons.dev/icons?i=instagram&perline=12" />
 	</a>
 	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/">
-		<img src="https://skillicons.dev/icons?i=linkedin&perline=12" />
-	</a>
-	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/">
 		<img src="https://skillicons.dev/icons?i=gmail&perline=12" />
 	</a>
 </p>
