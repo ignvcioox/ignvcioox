@@ -13,11 +13,11 @@
 
 <br>
 
-- Un apasionado Desarrollador Front-End Autodidacta.
-- Siempre aprendiendo nuevas tecnologías y asumiendo desafíos.
-- Motivado por la innovación y el aprendizaje continuo en el campo del desarrollo de software.
-- Habilidades en trabajo en equipo y resolución de problemas.
-- Experiencia en el desarrollo móvil con React.
+- Un apasionado Desarrollador Front-End Autodidacta
+- Experiencia en el desarrollo móvil con React Native
+- Habilidades en trabajo en equipo y resolución de problemas
+- Siempre aprendiendo nuevas tecnologías y asumiendo desafíos
+- Motivado por el aprendizaje continuo en el campo del desarrollo de software
 
 <br><br>
 
