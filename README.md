@@ -48,7 +48,7 @@
 		<img align="center" src="https://skillicons.dev/icons?i=instagram&perline=12" alt="instagram" />
 	</a>
 	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/" target="blank">
-		<img align="center" src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+		<img align="center" src="https://img.shields.io/badge/linkedin:  Benjamín López-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 	</a>
 	<a href="https://www.linkedin.com/in/benjam%C3%ADn-l%C3%B3pez-dur%C3%A1n-bb94192b0/">
 		<img src="https://skillicons.dev/icons?i=gmail&perline=12" />
