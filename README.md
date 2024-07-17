@@ -27,6 +27,14 @@
   </a>
 </p>
 
+<!-- Front-End Tecnologías -->
+- **Desarrollo Front-End**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react&perline=12" />
+  </a>
+</p>
+
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
