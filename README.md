@@ -36,6 +36,7 @@
 </p>
 
 <!-- BackEnd Tecnologías -->
+- **Desarrollo Back-End**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql&perline=12" />
