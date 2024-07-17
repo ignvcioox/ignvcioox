@@ -31,7 +31,7 @@
 - **Desarrollo Front-End**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,css,html,js&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,ts,html,js,vite,css&perline=12" />
   </a>
 </p>
 
