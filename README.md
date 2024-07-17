@@ -9,8 +9,8 @@
 
 ## <picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
 
-- Un apasionado Desarrollador Front-End Autodidacta
 - Experiencia en el desarrollo móvil con React Native
+- Un apasionado Desarrollador Front-End autodidacta
 - Habilidades en trabajo en equipo y resolución de problemas
 - Siempre aprendiendo nuevas tecnologías y asumiendo desafíos
 - Motivado por el aprendizaje continuo en el campo del desarrollo de software
