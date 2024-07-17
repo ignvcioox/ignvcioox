@@ -18,6 +18,9 @@
 - Siempre aprendiendo nuevas tecnologías y asumiendo desafíos
 - Motivado por el aprendizaje continuo en el campo del desarrollo de software
 
+<br>
+</br>
+
 <!-- Front-End Tecnologías -->
 ## **Desarrollo Front-End**
 <p align="left">
