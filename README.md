@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-	<a>
-	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Desarrollador Front-End y BackEnd">
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Desarrollador Front-End y BackEnd">
 </p>
 
 <br>
