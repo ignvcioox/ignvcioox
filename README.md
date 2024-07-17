@@ -20,13 +20,6 @@
 
 ## <picture> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"></picture> **Stack Tecnológico**
 
-<!-- Tecnologías -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
-
 <!-- Front-End Tecnologías -->
 - **Desarrollo Front-End**
 <p align="left">
