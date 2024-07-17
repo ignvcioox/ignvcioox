@@ -10,7 +10,7 @@
 </p>
 
 <!-- Sobre mí -->
-## **Acerca de mí**
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**Acerca de mí**
 
 - Experiencia en el desarrollo móvil con React Native
 - Un apasionado Desarrollador Front-End autodidacta
